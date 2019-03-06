@@ -38,3 +38,7 @@ Here's a function that invokes an intent to capture a photo.
          imageView.setImageBitmap(imageBitmap);
          }
         }
+        
+        
+ Source Linkss
+   https://developer.android.com/training/camera/photobasics
